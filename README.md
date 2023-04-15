@@ -1,6 +1,6 @@
 # Collaborating on a Short Story using Git Commands
 
-<img src="https://www.ekathimerini.com/wp-content/uploads/2019/06/grasshopper.jpg" width=400px>
+<img src="https://www.ekathimerini.com/wp-content/uploads/2019/06/grasshopper.jpg" width=550px>
 
 In this exercise we want you to follow the instruction given below
 
