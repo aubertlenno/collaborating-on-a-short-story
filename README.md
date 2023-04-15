@@ -1,5 +1,7 @@
 # Collaborating on a Short Story using Git Commands
 
+![illustration](https://www.ekathimerini.com/wp-content/uploads/2019/06/grasshopper.jpg)
+
 In this exercise we want you to follow the instruction given below
 
 ### Instruction
