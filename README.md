@@ -4,7 +4,7 @@
 
 In this exercise we want you to follow the instruction given below
 
-### Instruction
+## Instruction
 
 1. Fork this repository containing the starter files for the short story into your own. 
 2. Clone the repository to your local machine. (cd where you want to clone the repo). 
@@ -20,7 +20,7 @@ In this exercise we want you to follow the instruction given below
 
 
 
-### Story - The Ant and the Grasshopper
+## Story - The Ant and the Grasshopper
 
 Once upon a time, there was an ant who worked hard all summer gathering food for the winter. She stored grain, seeds, and nuts in her anthill to last through the cold months ahead.
 
