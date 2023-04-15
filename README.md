@@ -15,6 +15,7 @@ In this exercise we want you to follow the instruction given below
 7. Push them to the remote repository in your Github account. 
 8. Delete the first file. Add your name and student ID to the other file, add few new sentences. 
 9. Commit and push the changes. 
+10. Submit your name and repository link in the form provided below
 
 
 ## Story - The Ant and the Grasshopper
